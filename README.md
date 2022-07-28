@@ -1,7 +1,7 @@
 ### Welcome 👋🏼
 __________________
 
-<br> <br>
+<br>
 
 <h4> GitHub Stats 📊 </h4>
 
