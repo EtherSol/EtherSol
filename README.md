@@ -1,8 +1,8 @@
  ## Welcome 👋🏼
+ 
+ Portfolio: https://kylemz.wixsite.com/kyle-matthew-zhou
 
 <h5 align="left">Languages and Tools:</h5>
-
-Portfolio: https://kylemz.wixsite.com/kyle-matthew-zhou
 
 <p align="left"> 
 
