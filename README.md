@@ -17,7 +17,7 @@
 
 </p>
 
-<h5 align="left">Frontend Frameworks:</h5>
+<h5 align="left">Frontend:</h5>
 
 <p align="left"> 
 
