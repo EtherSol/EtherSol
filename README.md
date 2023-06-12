@@ -26,6 +26,3 @@
 
 </p>
 
-<h5> GitHub Stats 📊 </h5>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EtherSol&theme=radical)
