@@ -21,7 +21,7 @@
 
 <p align="left"> 
 
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="45" height="45"/> </a>  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="56" height="56"/> </a> 
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="45" height="45"/> </a>  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="56" height="56"/> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 
 
 </p>
